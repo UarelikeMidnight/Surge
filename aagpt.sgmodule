@@ -1,7 +1,0 @@
-#!name=aaChatGPT检测
-#!desc=aaChatGPT检测
-#!homepage=https://yfamily.vercel.app
-[Panel]
-aaChatGPT检测 = script-name=aaChatGPT检测
-[Script]
-aaChatGPT检测 = type=generic,script-path=https://raw.githubusercontent.com/UarelikeMidnight/Surge/main/gpt.js,argument=icon=ellipses.bubble.fill&icon-color=#008000

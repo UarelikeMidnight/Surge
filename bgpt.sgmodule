@@ -1,0 +1,6 @@
+#!name=bChatGPT检测
+#!desc=bChatGPT检测
+[Panel]
+bChatGPT检测 = script-name=bChatGPT检测
+[Script]
+bChatGPT检测 = type=generic,script-path=https://raw.githubusercontent.com/UarelikeMidnight/Surge/main/gpt111.js,argument=icon=ellipses.bubble.fill&icon-color=#008000
