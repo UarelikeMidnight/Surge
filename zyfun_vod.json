@@ -1,0 +1,33 @@
+{
+  "sites": [
+    {
+      "id": "d4f3a1b9-7a12-4ef1-b0ee-04a8f913cfa1",
+      "key": "d4f3a1b9-7a12-4ef1-b0ee-04a8f913cfa1",
+      "name": "厂长资源",
+      "type": 3,
+      "api": "csp_czzy",
+      "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/czzy.js",
+      "isActive": true
+    },
+    {
+      "id": "b1299e84-3dc8-4c96-9b17-89712e14d92b",
+      "key": "b1299e84-3dc8-4c96-9b17-89712e14d92b",
+      "name": "哔滴影视",
+      "type": 3,
+      "api": "csp_bde4",
+      "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/bdys.js",
+      "isActive": true
+    },
+    {
+      "id": "f94863e9-8d44-4d41-8d6b-ec51d89980c7",
+      "key": "f94863e9-8d44-4d41-8d6b-ec51d89980c7",
+      "name": "欧乐🪜",
+      "type": 3,
+      "api": "csp_Olevod",
+      "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ole.js",
+      "ext2": "https://gist.githubusercontent.com/occupy-pluto/ce9bf8248a15acb87e6b55e382fb8e4b/raw/ole.js",
+      "isActive": true
+    }
+    // 其余类似，逐条补齐即可
+  ]
+}
